@@ -1,12 +1,12 @@
 # See everything, miss nothing with CCTV cameras!
-Introducing BradleyCCTV, the ultimate surveillance upgrade for your Bradley APCs. With this plugin, you can easily attach CCTV cameras to your Bradleys, allowing you to keep a close eye on the battlefield. Whether you're trying to protect yourself or keep track of enemy movements, BradleyCCTV has you covered.
+Attach CCTV cameras to your Bradleys, allowing you to keep a close eye on the battlefield. Whether you're trying to protect yourself or keep track of enemy movements, BradleyCCTV has your back.
 
 ![](https://i.imgur.com/ZutJPx4.png)
 
 ----
 
 ## Installation
-Installing BradleyCCTV is easy. Simply download the plugin and place it in your server's oxide/plugins directory. Once loaded, the plugin will automatically scan the map for existing Bradleys and attach CCTV cameras on them.
+Download the plugin and place it in your server's oxide/plugins directory. Once loaded, the plugin will automatically scan the map for existing Bradleys and attach CCTV cameras on them.
 
 ----
 
@@ -18,7 +18,7 @@ Each Bradley can have a maximum of two cameras, positioned at the front or back,
 ----
 
 ### Vulnerability
-The cameras are just as vulnerable as the Bradleys themselves, so if a player destroys one, it will not respawn. Additionally, players can also pick up the cameras, although it's quite a feat to get that close to a Bradley! 😨
+The cameras are just as vulnerable as the Bradleys themselves, so if a player destroys one, it will not respawn. Additionally, players can also pick up the cameras, although it's quite a feat to get that close to a Bradley.
 
 ----
 
@@ -31,7 +31,7 @@ For each CCTV camera deployed, a unique random identifier will be generated. The
 
 Players can also view the identifiers using a command, which will drop a note in the player's inventory containing a list of active camera identifiers.
 
-![](https://i.imgur.com/ZuHTW1A.png)
+![](https://i.imgur.com/qUBCssj.png)
 
 ----
 
