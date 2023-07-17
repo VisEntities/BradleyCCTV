@@ -1,5 +1,5 @@
 # See everything, miss nothing with CCTV cameras!
-Attach CCTV cameras to your Bradleys, allowing you to keep a close eye on the battlefield. Whether you're trying to protect yourself or keep track of enemy movements, BradleyCCTV has your back.
+No more blindly heading to the launch site completely clueless about who might be hiding there, just waiting to pounce on you.
 
 ![](https://i.imgur.com/ZutJPx4.png)
 
