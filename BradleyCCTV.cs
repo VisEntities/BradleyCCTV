@@ -10,7 +10,7 @@ using Random = UnityEngine.Random;
 namespace Oxide.Plugins
 {
     [Info("Bradley CCTV", "Dana", "2.0.1")]
-    [Description("The ultimate surveillance upgrade for your Bradley APCs.")]
+    [Description("Never walk into danger blindly at the launch site.")]
     public class BradleyCCTV : RustPlugin
     {
         #region Fields
